@@ -34,7 +34,7 @@ object Main {
     for (_ <- 1 to digits) {
       print(result + " ")
     }
-    println("is the result")
+    println("is result")
   }
 }
 
